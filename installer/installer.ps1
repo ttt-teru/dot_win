@@ -81,7 +81,6 @@ scoop install Hack-NF-Mono
 $winget_app_list = @{
   "3D Viewer"                 = "9NBLGGH42THS"
   "7zip"                      = "7zip.7zip"
-  "Adobe Creative Cloud"      = "XPDLPKWG9SW2WD"
   "AutoHotkey"                = "AutoHotkey.AutoHotkey"
   "DeepL"                     = "XPDNX7G06BLH2G"
   "Everything"                = "voidtools.Everything"
@@ -93,6 +92,7 @@ $winget_app_list = @{
   "VLC"                       = "XPDM1ZW6815MQM"
   "Visual Studio Build Tools" = "Microsoft.VisualStudio.2022.BuildTools" # rustに必要
   "Visual Studio Code"        = "Microsoft.VisualStudioCode"
+  "WezTerm"                   = "wez.wezterm"
   "Windows Terminal"          = "Microsoft.WindowsTerminal"
   "iCloud"                    = "9PKTQ5699M62"
 }
