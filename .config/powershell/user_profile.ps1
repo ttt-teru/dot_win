@@ -26,6 +26,7 @@ Set-Alias lg "lazygit"
 # Functions
 function .. { Set-Location .. }
 function dot { Set-Location ~/dotfiles }
+function wp { Set-Location D:\workspace }
 function which ($command) {
     Get-command -Name $command -ShowCommandInfo | Format-List -Property Definition
 }
